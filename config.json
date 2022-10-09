@@ -1,5 +1,5 @@
 {
-	"ip":"node2.magmanode.com",
+	"ip":"node2.magmanode.com:28750",
 	"port": "28750",
 	"name": "afk-partially-lol",
 	"auto-night-skip":"false"
